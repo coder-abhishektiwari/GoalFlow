@@ -30,51 +30,6 @@ Mostly banaya isliye kyunki bade goals dekhke overwhelming lagta hai aur pata na
 
 <div align="center">
 
-### Home
-
-<img src="YOUR_HOME_SCREEN_LINK_HERE" width="260" />
-
----
-
-### Add Goal
-
-<img src="YOUR_ADD_GOAL_SCREEN_LINK_HERE" width="260" />
-
----
-
-### Goal Detail
-
-<img src="YOUR_GOAL_DETAIL_SCREEN_LINK_HERE" width="260" />
-
----
-
-### Step Complete
-
-<img src="YOUR_STEP_COMPLETE_SCREEN_LINK_HERE" width="260" />
-
----
-
-### All Goals
-
-<img src="YOUR_ALL_GOALS_SCREEN_LINK_HERE" width="260" />
-
----
-
-### Insights
-
-<img src="YOUR_INSIGHTS_SCREEN_LINK_HERE" width="260" />
-
----
-
-### Onboarding
-
-<img src="YOUR_ONBOARDING_SCREEN_LINK_HERE" width="260" />
-
----
-
-### Settings
-
-<img src="YOUR_SETTINGS_SCREEN_LINK_HERE" width="260" />
 
 </div>
 
@@ -86,10 +41,9 @@ Mostly banaya isliye kyunki bade goals dekhke overwhelming lagta hai aur pata na
 git clone https://github.com/coder-abhishektiwari/GoalFlow.git
 cd GoalFlow
 npm install
-npx expo start
+npx react-native run-android
 ```
 
-Expo Go app install karo phone pe, QR scan karo — ho gaya.
 
 ---
 
