@@ -1,0 +1,13 @@
+npm install 
+@react-navigation/native 
+@react-navigation/native-stack 
+@react-navigation/bottom-tabs 
+react-native-screens 
+zustand 
+react-native-mmkv 
+react-native-reanimated 
+react-native-svg 
+phosphor-react-native 
+react-native-confetti-cannon 
+victory-native uuid 
+react-native-gesture-handler
