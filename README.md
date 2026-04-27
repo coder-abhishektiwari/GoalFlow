@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_LOGO_LINK_HERE" width="90" />
+<img src="https://github.com/user-attachments/assets/5d05aeac-2060-4570-812b-5dac4946712e" width="90" />
 
 # GoalFlow
 
