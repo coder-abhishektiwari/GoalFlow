@@ -75,7 +75,6 @@ Install Expo Go on your phone, scan the QR code — you're good to go.
 | Framework | React Native + Expo |
 | State | Zustand |
 | Storage | MMKV |
-| Animations | Reanimated 3 |
 | Charts | Victory Native XL |
 | Icons | Phosphor Icons |
 
